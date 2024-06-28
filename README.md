@@ -4,7 +4,7 @@
 - [Daysi Lizet Campos Fernández](https://github.com/BangBanguwu)
 - [Jesus Mauricio Huayhua Flores](https://github.com/JesusHuayhua)
 - [Juan Adolfo Mendiz Gamarra](https://github.com/Medz-10)
-- [Flavio Roberto Pujay Angeles](https://github.com/Flavio-PA)
+- [Flavio Roberto Pujay Angeles](https://github.com/JAYPU-11)
 
 ## Resumen
 

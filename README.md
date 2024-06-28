@@ -21,7 +21,7 @@ genético es una herramienta viable y eficiente para resolver problemas de Sudok
 
 ## Compilacion
 
-```CPP
+```bash
 g++ main.cpp -o main.exe
 ./main.exe > salida.txt
 ```

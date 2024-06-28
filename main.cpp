@@ -394,11 +394,11 @@ Candidate Sudoku::solve(){
     double phi = 0;
     double sigma = 1;
     // First case mutation
-    double mutation_rate = 0.0;
+    // double mutation_rate = 0.0;
     // Second case mutation
     //double mutation_rate = 0.06;
     // Third case mutation
-    //double mutation_rate = 0.1;
+    double mutation_rate = 0.1;
     // Fourth case mutation
     //double mutation_rate = 0.5;
     // Fifth case mutation
@@ -505,15 +505,15 @@ Candidate Sudoku::solve(){
             phi = 0;
             Nm = 0;
             // First case mutation
-            mutation_rate = 0.0;
+            //mutation_rate = 0.0;
             // Second case mutation
-            //double mutation_rate = 0.06;
+            //mutation_rate = 0.06;
             // Third case mutation
-            //double mutation_rate = 0.1;
+             mutation_rate = 0.1;
             // Fourth case mutation
-            //double mutation_rate = 0.5;
+            // mutation_rate = 0.5;
             // Fifth case mutation
-            //double mutation_rate = 1.0;
+            // mutation_rate = 1.0;
         }
     }
 
